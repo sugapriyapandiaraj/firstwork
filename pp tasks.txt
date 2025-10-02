@@ -1,6 +1,1 @@
-cmd
-///  <reference types="cypress-xpath" />
-e2e
-import './commands';
-import 'cypress-xpath';
-require('cypress-xpath')
+Y21kDQovLy8gIDxyZWZlcmVuY2UgdHlwZXM9ImN5cHJlc3MteHBhdGgiIC8+DQplMmUNCmltcG9ydCAnLi9jb21tYW5kcyc7DQppbXBvcnQgJ2N5cHJlc3MteHBhdGgnOw0KcmVxdWlyZSgnY3lwcmVzcy14cGF0aCcpDQo=
