@@ -1,14 +1,6 @@
-1. Configuration
-2. Holidays
-3. Resources
-4. Shift
-5. Shift assignments
-press insert for block cursor
-
-service order: 
-1. if active true it will go to plan and action (work page)
-2. in plan page it will be dsabled if it is in actual
-3. split btn is added instead of add btn
-4. duration integer allocation may be 0.5
-if parallel start is false plan split based on dependancty o/w it take as 0
-leaveEntry tbale for teamcalender=>holiday info
+cmd
+///  <reference types="cypress-xpath" />
+e2e
+import './commands';
+import 'cypress-xpath';
+require('cypress-xpath')
